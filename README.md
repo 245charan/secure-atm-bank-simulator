@@ -1,1 +1,1 @@
-# secure-banking-system
+# secure-atm-bank-simulator
